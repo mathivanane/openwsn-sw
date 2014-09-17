@@ -21,8 +21,8 @@ banner += ["`___'|  _/\___.|_|_||__/_/ <___/|_\_|"]
 banner += ["     |_|                  openwsn.org"]
 banner += [""]
 
-print '\n'.join(banner)
-
+#print '\n'.join(banner)
+print '\n\n Initializing 6LoWPAN IEEE802.15.4e Network. Please wait\n\n'
 #============================ SCons environment ===============================
 
 #===== help text
